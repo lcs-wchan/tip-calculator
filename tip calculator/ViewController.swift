@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    // MARK: Propretites  
     let amountOfBill = 120
     let tipPercentageString = 15
     let tipPercentageAsDouble = Double(tipPercentaageString)
